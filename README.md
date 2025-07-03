@@ -1,6 +1,6 @@
 # Hi there, I'm Luis! 👋
 
-<img src="https://github.com/luismb1411/luismb1411/raw/main/profile-image.png" width="180" alt="Profile image" align="right" />
+<img src="https://github.com/luismb1411/aboutMe/blob/main/profile.png" width="180" alt="Profile image" align="right" />
 
 🎓 **Network Engineering Student**  
 🧑‍💻 Currently learning how to code & exploring the world of **Web Development**  
